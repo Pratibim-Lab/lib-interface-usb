@@ -7,5 +7,5 @@
       "datasheet": "https://www.usb.org/sites/default/files/documents/usb_type-c.zip",
       "keywords": "usb universal serial bus",
       "footprint": "",
-      "extends": ""
+      "extends": "USB_C_Plug"
 }
