@@ -1,37 +1,23 @@
+
 name: Sync to Index
 on: [push]
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # CRITICAL: Fixes the 'bad object' git diff error
-
+          fetch-depth: 0
       - name: Extract & Dispatch
         run: |
-          # 1. Get the path of the changed manifest.json
-          # Note: If it's a first push, we compare against the root; otherwise use event.before
           BEFORE_SHA=${{ github.event.before }}
           if [ "$BEFORE_SHA" = "0000000000000000000000000000000000000000" ]; then
             MANIFEST=$(git ls-files | grep 'manifest.json' | head -1)
           else
             MANIFEST=$(git diff --name-only $BEFORE_SHA ${{ github.sha }} | grep 'manifest.json' | head -1)
           fi
-          
-          if [ -z "$MANIFEST" ]; then 
-            echo "No manifest changed. Skipping."
-            exit 0
-          fi
-          
-          echo "Found manifest: $MANIFEST"
-          
-          # 2. Run the extractor (Ensure this script exists in your shard)
+          if [ -z "$MANIFEST" ]; then exit 0; fi
           PAYLOAD=$(python3 scripts/extractor.py "$MANIFEST")
-          
-          # 3. Send to Master Index using the GH_PAT secret
           curl -X POST https://api.github.com/repos/${{ github.repository_owner }}/master-index/dispatches \
           -H "Authorization: token ${{ secrets.GLOBAL_SYNC_TOKEN }}" \
           -H "Accept: application/vnd.github.v3+json" \
