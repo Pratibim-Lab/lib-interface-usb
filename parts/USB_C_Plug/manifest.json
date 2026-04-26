@@ -1,0 +1,11 @@
+{
+      "id": "Connector/USB_C_Plug:USB_C_Plug",
+      "name": "USB_C_Plug",
+      "library": "Connector",
+      "file": "Connector.kicad_symdir/USB_C_Plug.kicad_sym",
+      "description": "USB Type-C Plug connector",
+      "datasheet": "https://www.usb.org/sites/default/files/documents/usb_type-c.zip",
+      "keywords": "usb universal serial bus",
+      "footprint": "",
+      "extends": ""
+}
