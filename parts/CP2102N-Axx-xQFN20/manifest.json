@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CP2102N-Axx-xQFN20:CP2102N-Axx-xQFN20",
+  "name": "CP2102N-Axx-xQFN20",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CP2102N-Axx-xQFN20.kicad_sym",
+  "description": "USB to UART master bridge, QFN-20",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf",
+  "keywords": "USB UART bridge",
+  "footprint": "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CP2102N-Axx-xQFN20/",
+  "part_path": "parts/CP2102N-Axx-xQFN20",
+  "symbol_file": "parts/CP2102N-Axx-xQFN20/CP2102N-Axx-xQFN20.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.590Z"
+}

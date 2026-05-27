@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT232RL:FT232RL",
+  "name": "FT232RL",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT232RL.kicad_sym",
+  "description": "USB to Serial Interface, SSOP-28",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf",
+  "keywords": "FTDI USB Serial",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT232RL/",
+  "part_path": "parts/FT232RL",
+  "symbol_file": "parts/FT232RL/FT232RL.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.896Z"
+}

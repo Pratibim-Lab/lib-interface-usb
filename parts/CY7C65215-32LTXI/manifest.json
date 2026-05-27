@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CY7C65215-32LTXI:CY7C65215-32LTXI",
+  "name": "CY7C65215-32LTXI",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CY7C65215-32LTXI.kicad_sym",
+  "description": "USB-Serial Dual Channel Bridge with CapSense Full-Speed 12 Mbps, +1.71V to +5.5V VDD, UART/I2C/SPI/RS232/RS422/JTAG, QFN-32",
+  "datasheet": "http://www.cypress.com/file/129956/download",
+  "keywords": "USB-Serial single channel bridge",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CY7C65215-32LTXI/",
+  "part_path": "parts/CY7C65215-32LTXI",
+  "symbol_file": "parts/CY7C65215-32LTXI/CY7C65215-32LTXI.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.646Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/IP2721:IP2721",
+  "name": "IP2721",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/IP2721.kicad_sym",
+  "description": "USB TYPEC  PD Controller Interface, TSSOP-16",
+  "datasheet": "https://datasheet.lcsc.com/lcsc/2006111335_INJOINIC-IP2721_C603176.pdf",
+  "keywords": "USB TYPEC PD",
+  "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/IP2721/",
+  "part_path": "parts/IP2721",
+  "symbol_file": "parts/IP2721/IP2721.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.086Z"
+}

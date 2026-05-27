@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT232H:FT232H",
+  "name": "FT232H",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT232H.kicad_sym",
+  "description": "Hi Speed Single Channel USB UART/FIFO, LQFP/QFN-48",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232H.pdf",
+  "keywords": "FTDI USB Single UART FIFO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT232H/",
+  "part_path": "parts/FT232H",
+  "symbol_file": "parts/FT232H/FT232H.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.875Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/ADUM3160:ADUM3160",
+  "name": "ADUM3160",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/ADUM3160.kicad_sym",
+  "description": "Full/Low Speed, iCoupler USB Digital Isolator, 2.5kV protection",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3160.pdf",
+  "keywords": "usb isolation",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "ADUM4160",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/ADUM3160/",
+  "part_path": "parts/ADUM3160",
+  "symbol_file": "parts/ADUM3160/ADUM3160.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.463Z"
+}

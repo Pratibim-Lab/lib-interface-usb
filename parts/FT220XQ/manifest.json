@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT220XQ:FT220XQ",
+  "name": "FT220XQ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT220XQ.kicad_sym",
+  "description": "Full Speed USB to 4-Bit SPI / FT1248 Bridge, QFN-16",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT220X.pdf",
+  "keywords": "FTDI USB SPI FT1248 Interface Converter",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT220XQ/",
+  "part_path": "parts/FT220XQ",
+  "symbol_file": "parts/FT220XQ/FT220XQ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.758Z"
+}

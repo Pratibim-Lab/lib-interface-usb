@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CYPD3177-24LQ:CYPD3177-24LQ",
+  "name": "CYPD3177-24LQ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CYPD3177-24LQ.kicad_sym",
+  "description": "Stand-alone USB PD controller (with sink Auto-run mode), QFN-24",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-EZ-PD_BCR_Datasheet_USB_Type-C_Port_Controller_for_Power_Sinks-DataSheet-v03_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ee7ce9d70ad",
+  "keywords": "usb pd type csink",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.75x2.75mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CYPD3177-24LQ/",
+  "part_path": "parts/CYPD3177-24LQ",
+  "symbol_file": "parts/CYPD3177-24LQ/CYPD3177-24LQ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.692Z"
+}

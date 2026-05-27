@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH341A:CH341A",
+  "name": "CH341A",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH341A.kicad_sym",
+  "description": "USB to UART / printer port / parallel port / 2-wire / 4-wire, SOIC-28 (SOP-28)",
+  "datasheet": "https://www.wch-ic.com/downloads/file/16.html",
+  "keywords": "serial-interface I2C SPI FlexWire print-port EPP Enhanced-Parallel-Port",
+  "footprint": "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH341A/",
+  "part_path": "parts/CH341A",
+  "symbol_file": "parts/CH341A/CH341A.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.581Z"
+}

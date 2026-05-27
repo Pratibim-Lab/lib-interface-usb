@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH343G:CH343G",
+  "name": "CH343G",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH343G.kicad_sym",
+  "description": "High-Speed USB serial converter, up to 6Mbps, 3.3V or 5V supply, UART, SOIC-16",
+  "datasheet": "https://www.wch-ic.com/downloads/CH343DS1_PDF.html",
+  "keywords": "UART Interface crystalless",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH343G/",
+  "part_path": "parts/CH343G",
+  "symbol_file": "parts/CH343G/CH343G.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.583Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FSUSB42MUX:FSUSB42MUX",
+  "name": "FSUSB42MUX",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FSUSB42MUX.kicad_sym",
+  "description": "Low-Power, Two-Port, High-Speed, USB2.0 (480Mbps) or UART Switch, MSOP-10",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/FSUSB42-D.PDF",
+  "keywords": "USB 2.0 UART High Speed Switch",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FSUSB42MUX/",
+  "part_path": "parts/FSUSB42MUX",
+  "symbol_file": "parts/FSUSB42MUX/FSUSB42MUX.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.722Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CP2615-xx-xM:CP2615-xx-xM",
+  "name": "CP2615-xx-xM",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CP2615-xx-xM.kicad_sym",
+  "description": "USB to I2S bridge, USB 1.0 Audio Class, QFN-32",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/cp2615-datasheet.pdf",
+  "keywords": "usb i2s i2c uart audio bridge hid gpio",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.3x3.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CP2615-xx-xM/",
+  "part_path": "parts/CP2615-xx-xM",
+  "symbol_file": "parts/CP2615-xx-xM/CP2615-xx-xM.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.609Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/TCPP03-M20:TCPP03-M20",
+  "name": "TCPP03-M20",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/TCPP03-M20.kicad_sym",
+  "description": "USB-PD 3.1 controller with protection, Dual Role Power (DRP), OCP, OVP, WQFN-20",
+  "datasheet": "https://www.st.com/resource/en/datasheet/tcpp03-m20.pdf",
+  "keywords": "STMicroelectronics I2C ESD USB-C USB-Power-Delivery PPS",
+  "footprint": "Package_DFN_QFN:TQFN-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/TCPP03-M20/",
+  "part_path": "parts/TCPP03-M20",
+  "symbol_file": "parts/TCPP03-M20/TCPP03-M20.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.333Z"
+}

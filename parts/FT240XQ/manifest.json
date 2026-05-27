@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT240XQ:FT240XQ",
+  "name": "FT240XQ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT240XQ.kicad_sym",
+  "description": "Full Speed USB to 8-Bit FIFO, QFN-24",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT240X.pdf",
+  "keywords": "FTDI USB FIFO interface converter",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT240XQ/",
+  "part_path": "parts/FT240XQ",
+  "symbol_file": "parts/FT240XQ/FT240XQ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.933Z"
+}

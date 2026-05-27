@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/MS2130:MS2130",
+  "name": "MS2130",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/MS2130.kicad_sym",
+  "description": "USB 3.0 HD Video Capture Chip, 24 MHz external clock, VQFN-64",
+  "datasheet": "https://gitlab.com/-/project/21610360/uploads/2311ee0b871d17f79670064b4b2f55bb/MS2130-MacroSilicon_KL-014-0010911.pdf",
+  "keywords": "HDMI-1.4b DVI-1.0 HDCP-1.4 I2C SPI UART",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.7x5.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/MS2130/",
+  "part_path": "parts/MS2130",
+  "symbol_file": "parts/MS2130/MS2130.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.293Z"
+}

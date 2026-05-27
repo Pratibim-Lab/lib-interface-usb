@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/MCP2221AxSL:MCP2221AxSL",
+  "name": "MCP2221AxSL",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/MCP2221AxSL.kicad_sym",
+  "description": "USB to I2C/UART Protocol Converter with GPIO, SOIC-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20005565B.pdf",
+  "keywords": "USB I2C UART Converter Bridge",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/MCP2221AxSL/",
+  "part_path": "parts/MCP2221AxSL",
+  "symbol_file": "parts/MCP2221AxSL/MCP2221AxSL.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.240Z"
+}

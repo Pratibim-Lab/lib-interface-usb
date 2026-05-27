@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FUSB307BMPX:FUSB307BMPX",
+  "name": "FUSB307BMPX",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FUSB307BMPX.kicad_sym",
+  "description": "USB Type-C Port Controller with USB-PD, WQFN-16",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/FUSB307B-D.PDF",
+  "keywords": "USB USB-C PD Power Delivery PHY TCPC",
+  "footprint": "Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FUSB307BMPX/",
+  "part_path": "parts/FUSB307BMPX",
+  "symbol_file": "parts/FUSB307BMPX/FUSB307BMPX.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.052Z"
+}

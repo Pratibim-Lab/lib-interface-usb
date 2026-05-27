@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/TPS2501DRC:TPS2501DRC",
+  "name": "TPS2501DRC",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/TPS2501DRC.kicad_sym",
+  "description": "Integrated USB power Switch with Boost Converter, Constant Frequency, Texas S-PVSON-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps2500.pdf",
+  "keywords": "USB switch boost",
+  "footprint": "Package_SON:Texas_S-PVSON-N10",
+  "extends": "TPS2500DRC",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/TPS2501DRC/",
+  "part_path": "parts/TPS2501DRC",
+  "symbol_file": "parts/TPS2501DRC/TPS2501DRC.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.347Z"
+}

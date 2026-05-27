@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/TUSB4041I:TUSB4041I",
+  "name": "TUSB4041I",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/TUSB4041I.kicad_sym",
+  "description": "Four-port USB 2.0 Hub, TQFP-64",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tusb4041i.pdf",
+  "keywords": "USB2.0 I2C SMBus",
+  "footprint": "Package_QFP:Texas_TQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm_Mask4.44x4.44mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/TUSB4041I/",
+  "part_path": "parts/TUSB4041I",
+  "symbol_file": "parts/TUSB4041I/TUSB4041I.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.552Z"
+}

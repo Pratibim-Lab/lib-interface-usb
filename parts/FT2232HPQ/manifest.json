@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT2232HPQ:FT2232HPQ",
+  "name": "FT2232HPQ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT2232HPQ.kicad_sym",
+  "description": "High-Speed USB 2.0 Bridge, Type-C / PD3.0 controller, dual interface UART/FIFO/JTAG/SPI/I2C/bit-bang, VQFN-68",
+  "datasheet": "https://ftdichip.com/wp-content/uploads/2025/09/DS_FT2233HP.pdf",
+  "keywords": "FTDI USB-Power-Delivery USB-PD",
+  "footprint": "Package_DFN_QFN:VQFN-68-1EP_8x8mm_P0.4mm_EP4.3x4.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT2232HPQ/",
+  "part_path": "parts/FT2232HPQ",
+  "symbol_file": "parts/FT2232HPQ/FT2232HPQ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.815Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH334U:CH334U",
+  "name": "CH334U",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH334U.kicad_sym",
+  "description": "USB HUB controller, QSOP-28",
+  "datasheet": "https://www.wch-ic.com/downloads/file/327.html",
+  "keywords": "USB HUB Controller Interface",
+  "footprint": "Package_SO:QSOP-28_3.9x9.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH334U/",
+  "part_path": "parts/CH334U",
+  "symbol_file": "parts/CH334U/CH334U.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.535Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CP2104:CP2104",
+  "name": "CP2104",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CP2104.kicad_sym",
+  "description": "Single-Chip USB-to-UART Bridge, USB 2.0 Full-Speed, 2Mbps UART, QFN-24",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/cp2104.pdf",
+  "keywords": "uart usb bridge interface transceiver",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CP2104/",
+  "part_path": "parts/CP2104",
+  "symbol_file": "parts/CP2104/CP2104.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.595Z"
+}

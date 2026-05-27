@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/MP5034GJ:MP5034GJ",
+  "name": "MP5034GJ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/MP5034GJ.kicad_sym",
+  "description": "USB charging port controller integrating QC 2.0/3.0 anc BC1.2 Protocol, TSOT-23-8",
+  "datasheet": "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP5034/",
+  "keywords": "USB Quick Charge",
+  "footprint": "Package_TO_SOT_SMD:TSOT-23-8",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/MP5034GJ/",
+  "part_path": "parts/MP5034GJ",
+  "symbol_file": "parts/MP5034GJ/MP5034GJ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.279Z"
+}

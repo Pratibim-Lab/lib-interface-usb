@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/HUSB238_xxxDD:HUSB238_xxxDD",
+  "name": "HUSB238_xxxDD",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/HUSB238_xxxDD.kicad_sym",
+  "description": "USB-PD Sink IC Port Controller, VBUS = 3..25V, USB Type-C rev. 1.4, USB-PD rev. 3.0, BC1.2, WDFN-10 / WSON-10",
+  "datasheet": "https://cdn-learn.adafruit.com/assets/assets/000/125/150/original/husb238_datasheet_full.pdf",
+  "keywords": "USB-C I2C USB-Power-Delivery HUSB238_001DD HUSB238_002DD HUSB238_003DD HUSB238_004DD HUSB238_005DD HUSB238_006DD",
+  "footprint": "Package_DFN_QFN:WDFN-10-1EP_3x3mm_P0.5mm_EP1.8x2.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/HUSB238_xxxDD/",
+  "part_path": "parts/HUSB238_xxxDD",
+  "symbol_file": "parts/HUSB238_xxxDD/HUSB238_xxxDD.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.073Z"
+}

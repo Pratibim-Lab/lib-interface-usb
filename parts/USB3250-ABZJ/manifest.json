@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/USB3250-ABZJ:USB3250-ABZJ",
+  "name": "USB3250-ABZJ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/USB3250-ABZJ.kicad_sym",
+  "description": "Hi-Speed USB Device Transceiver with UTMI Interface, QFN-56",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/00002142A.pdf",
+  "keywords": "HS FS Device USB PHY UTMI",
+  "footprint": "Package_DFN_QFN:QFN-56-1EP_8x8mm_P0.5mm_EP4.3x4.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/USB3250-ABZJ/",
+  "part_path": "parts/USB3250-ABZJ",
+  "symbol_file": "parts/USB3250-ABZJ/USB3250-ABZJ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.579Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/MCP2221AxP:MCP2221AxP",
+  "name": "MCP2221AxP",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/MCP2221AxP.kicad_sym",
+  "description": "USB to I2C/UART Protocol Converter with GPIO, DIP-14",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20005565B.pdf",
+  "keywords": "USB I2C UART Converter Bridge",
+  "footprint": "Package_DIP:DIP-14_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/MCP2221AxP/",
+  "part_path": "parts/MCP2221AxP",
+  "symbol_file": "parts/MCP2221AxP/MCP2221AxP.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.231Z"
+}

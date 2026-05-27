@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT220XS:FT220XS",
+  "name": "FT220XS",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT220XS.kicad_sym",
+  "description": "Full Speed USB to 4-Bit SPI / FT1248 Bridge, SSOP-16",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT220X.pdf",
+  "keywords": "FTDI USB SPI FT1248 Interface Converter",
+  "footprint": "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT220XS/",
+  "part_path": "parts/FT220XS",
+  "symbol_file": "parts/FT220XS/FT220XS.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.771Z"
+}

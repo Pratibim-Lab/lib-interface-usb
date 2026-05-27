@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT231XS:FT231XS",
+  "name": "FT231XS",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT231XS.kicad_sym",
+  "description": "Full Speed USB to Full Handshake UART, SSOP-20",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf",
+  "keywords": "FTDI USB UART interface converter",
+  "footprint": "Package_SO:SSOP-20_3.9x8.7mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT231XS/",
+  "part_path": "parts/FT231XS",
+  "symbol_file": "parts/FT231XS/FT231XS.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.859Z"
+}

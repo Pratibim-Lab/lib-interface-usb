@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/UPD720202K8-7x1-BAA:UPD720202K8-7x1-BAA",
+  "name": "UPD720202K8-7x1-BAA",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/UPD720202K8-7x1-BAA.kicad_sym",
+  "description": "PCIe to USB 3.0 Host Controller, 2 ports, QFN-48",
+  "datasheet": "https://www.renesas.com/us/en/document/dst/upd720201upd720202-datasheet",
+  "keywords": "PCIe USB 3.0",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.7x5.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/UPD720202K8-7x1-BAA/",
+  "part_path": "parts/UPD720202K8-7x1-BAA",
+  "symbol_file": "parts/UPD720202K8-7x1-BAA/UPD720202K8-7x1-BAA.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.568Z"
+}

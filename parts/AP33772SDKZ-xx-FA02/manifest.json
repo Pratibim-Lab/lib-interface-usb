@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/AP33772SDKZ-xx-FA02:AP33772SDKZ-xx-FA02",
+  "name": "AP33772SDKZ-xx-FA02",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/AP33772SDKZ-xx-FA02.kicad_sym",
+  "description": "USB Type-C PD3.1 Sink Controller, EPR/AVS up to 28V, SPR/AVS up to 21V, I2C interface, WQFN-24",
+  "datasheet": "https://www.diodes.com/datasheet/download/AP33772S.pdf",
+  "keywords": "Diodes-Incorporated AP33772SDKZ-13-FA02 USB-PD USB-Power-Delivery",
+  "footprint": "Package_DFN_QFN:Texas_RTW_WQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/AP33772SDKZ-xx-FA02/",
+  "part_path": "parts/AP33772SDKZ-xx-FA02",
+  "symbol_file": "parts/AP33772SDKZ-xx-FA02/AP33772SDKZ-xx-FA02.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.485Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT231XQ:FT231XQ",
+  "name": "FT231XQ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT231XQ.kicad_sym",
+  "description": "Full Speed USB to Full Handshake UART, QFN-20",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf",
+  "keywords": "FTDI USB UART interface converter",
+  "footprint": "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT231XQ/",
+  "part_path": "parts/FT231XQ",
+  "symbol_file": "parts/FT231XQ/FT231XQ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.853Z"
+}

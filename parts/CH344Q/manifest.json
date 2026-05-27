@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH344Q:CH344Q",
+  "name": "CH344Q",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH344Q.kicad_sym",
+  "description": "USB to Quad Serial Ports Chip, LQFP-48",
+  "datasheet": "https://www.wch-ic.com/downloads/file/299.html",
+  "keywords": "USB Quad UART Serial Converter Interface",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH344Q/",
+  "part_path": "parts/CH344Q",
+  "symbol_file": "parts/CH344Q/CH344Q.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.587Z"
+}

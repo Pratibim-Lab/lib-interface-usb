@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT4222HQ:FT4222HQ",
+  "name": "FT4222HQ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT4222HQ.kicad_sym",
+  "description": "USB 2.0 to Quad SPI or I2C Bridge, VQFN-32",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4222H.pdf",
+  "keywords": "USB SPI I2C FTDI Bridge Converter Interface",
+  "footprint": "Package_DFN_QFN:VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT4222HQ/",
+  "part_path": "parts/FT4222HQ",
+  "symbol_file": "parts/FT4222HQ/FT4222HQ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.964Z"
+}

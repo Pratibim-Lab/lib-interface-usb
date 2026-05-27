@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/BQ24392:BQ24392",
+  "name": "BQ24392",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/BQ24392.kicad_sym",
+  "description": "Dual SPST USB 2.0 High Speed Switch with USB Battery Charging Specification Revision 1.2 Detection, UQFN-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/bq24392.pdf",
+  "keywords": "USB BC detector charger",
+  "footprint": "Package_DFN_QFN:Texas_R-PUQFN-N10",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/BQ24392/",
+  "part_path": "parts/BQ24392",
+  "symbol_file": "parts/BQ24392/BQ24392.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.488Z"
+}

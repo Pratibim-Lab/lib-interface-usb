@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/MCP2221AxML:MCP2221AxML",
+  "name": "MCP2221AxML",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/MCP2221AxML.kicad_sym",
+  "description": "USB to I2C/UART Protocol Converter with GPIO, QFN-16",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/20005565B.pdf",
+  "keywords": "USB I2C UART Converter Bridge",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.5x2.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/MCP2221AxML/",
+  "part_path": "parts/MCP2221AxML",
+  "symbol_file": "parts/MCP2221AxML/MCP2221AxML.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.224Z"
+}

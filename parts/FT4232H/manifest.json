@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT4232H:FT4232H",
+  "name": "FT4232H",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT4232H.kicad_sym",
+  "description": "Hi Speed Quad Channel USB UART/FIFO, LQFP/QFN-64",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf",
+  "keywords": "FTDI USB Quad UART FIFO",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT4232H/",
+  "part_path": "parts/FT4232H",
+  "symbol_file": "parts/FT4232H/FT4232H.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.971Z"
+}

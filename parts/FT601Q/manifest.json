@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT601Q:FT601Q",
+  "name": "FT601Q",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT601Q.kicad_sym",
+  "description": "USB 3.0 Super-Speed to 32 bits Sync FIFO, QFN-76",
+  "datasheet": "https://ftdichip.com/wp-content/uploads/2020/07/DS_FT600Q-FT601Q-IC-Datasheet.pdf",
+  "keywords": "FTDI USB 3.0 FIFO",
+  "footprint": "Package_DFN_QFN:QFN-76-1EP_9x9mm_P0.4mm_EP5.81x6.31mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT601Q/",
+  "part_path": "parts/FT601Q",
+  "symbol_file": "parts/FT601Q/FT601Q.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.982Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT230XS:FT230XS",
+  "name": "FT230XS",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT230XS.kicad_sym",
+  "description": "Full-Speed USB to Basic UART, SSOP-16",
+  "datasheet": "https://ftdichip.com/wp-content/uploads/2025/06/DS_FT230X.pdf",
+  "keywords": "FTDI USB UART interface converter",
+  "footprint": "Package_SO:SSOP-16_3.9x4.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT230XS/",
+  "part_path": "parts/FT230XS",
+  "symbol_file": "parts/FT230XS/FT230XS.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.844Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CYPD3174-24LQXQ:CYPD3174-24LQXQ",
+  "name": "CYPD3174-24LQXQ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CYPD3174-24LQXQ.kicad_sym",
+  "description": "USB Type-C port controller, Cortex®-M0 processor, DFP CC with opto coupler feedback bootloader, QFN-24",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-EZ-PD(TM)_CCG3PA_Datasheet_USB_Type-C_Port_Controller-DataSheet-v09_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ee438366ac0",
+  "keywords": "USBPD Quickcharge",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.75x2.75mm",
+  "extends": "CYPD3171-24LQXQ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CYPD3174-24LQXQ/",
+  "part_path": "parts/CYPD3174-24LQXQ",
+  "symbol_file": "parts/CYPD3174-24LQXQ/CYPD3174-24LQXQ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.668Z"
+}

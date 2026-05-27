@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FUSB302B11MPX:FUSB302B11MPX",
+  "name": "FUSB302B11MPX",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FUSB302B11MPX.kicad_sym",
+  "description": "Programmable USB Type-C Controller w/PD, I2C address 0x25, WQFN-14",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/FUSB302B-D.PDF",
+  "keywords": "USB USB-C PD Power Delivery PHY",
+  "footprint": "Package_DFN_QFN:WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm",
+  "extends": "FUSB302BMPX",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FUSB302B11MPX/",
+  "part_path": "parts/FUSB302B11MPX",
+  "symbol_file": "parts/FUSB302B11MPX/FUSB302B11MPX.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.013Z"
+}

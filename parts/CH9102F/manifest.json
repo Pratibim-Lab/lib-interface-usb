@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH9102F:CH9102F",
+  "name": "CH9102F",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH9102F.kicad_sym",
+  "description": "WCH-IC, Single-Chip USB-to-UART Bridge, USB 2.0 Full-Speed, 4Mbps UART, QFN-24",
+  "datasheet": "http://www.wch-ic.com/downloads/CH9102DS1_PDF.html",
+  "keywords": "uart usb bridge interface transceiver CH9102F",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH9102F/",
+  "part_path": "parts/CH9102F",
+  "symbol_file": "parts/CH9102F/CH9102F.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.588Z"
+}

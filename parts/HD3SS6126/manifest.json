@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/HD3SS6126:HD3SS6126",
+  "name": "HD3SS6126",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/HD3SS6126.kicad_sym",
+  "description": "USB 3.0 + USB 2.0 Differential Switch 2:1/1:2 MUX/DEMUX, WQFN-42",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/hd3ss6126.pdf",
+  "keywords": "Texas-Instruments USB3.0 USB2.0 Multiplexer HD3SS6126RUAR",
+  "footprint": "Package_DFN_QFN:WQFN-42-1EP_3.5x9mm_P0.5mm_EP2.05x7.55mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/HD3SS6126/",
+  "part_path": "parts/HD3SS6126",
+  "symbol_file": "parts/HD3SS6126/HD3SS6126.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.066Z"
+}

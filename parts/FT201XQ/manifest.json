@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT201XQ:FT201XQ",
+  "name": "FT201XQ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT201XQ.kicad_sym",
+  "description": "Full Speed USB to I2C Bridge, QFN-10",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT201X.pdf",
+  "keywords": "FTDI USB I2C interface Converter",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT201XQ/",
+  "part_path": "parts/FT201XQ",
+  "symbol_file": "parts/FT201XQ/FT201XQ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.739Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CY7C65211A-24LTXI:CY7C65211A-24LTXI",
+  "name": "CY7C65211A-24LTXI",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CY7C65211A-24LTXI.kicad_sym",
+  "description": "USB-Serial single channel bridge with capsense and BCD, +1.71V to +5.5V VDD, UART/I2C/SPI/RS232/RS422/RS485, QFN-24",
+  "datasheet": "http://www.cypress.com/file/139886/download",
+  "keywords": "USB-Serial single channel bridge",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "CY7C65211-24LTXI",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CY7C65211A-24LTXI/",
+  "part_path": "parts/CY7C65211A-24LTXI",
+  "symbol_file": "parts/CY7C65211A-24LTXI/CY7C65211A-24LTXI.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.623Z"
+}

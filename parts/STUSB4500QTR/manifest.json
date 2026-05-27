@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/STUSB4500QTR:STUSB4500QTR",
+  "name": "STUSB4500QTR",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/STUSB4500QTR.kicad_sym",
+  "description": "Stand-alone USB PD controller (with sink Auto-run mode), QFN-24",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stusb4500.pdf",
+  "keywords": "USB PD Type C Sink",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/STUSB4500QTR/",
+  "part_path": "parts/STUSB4500QTR",
+  "symbol_file": "parts/STUSB4500QTR/STUSB4500QTR.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.322Z"
+}

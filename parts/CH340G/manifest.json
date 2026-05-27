@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH340G:CH340G",
+  "name": "CH340G",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH340G.kicad_sym",
+  "description": "USB serial converter, UART, SOIC-16",
+  "datasheet": "http://www.datasheet5.com/pdf-local-2195953",
+  "keywords": "USB UART Serial Converter Interface",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH340G/",
+  "part_path": "parts/CH340G",
+  "symbol_file": "parts/CH340G/CH340G.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.557Z"
+}

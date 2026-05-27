@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CP2112:CP2112",
+  "name": "CP2112",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CP2112.kicad_sym",
+  "description": "HID USB to SMBUS master bridge",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/cp2112-datasheet.pdf",
+  "keywords": "USB SMBUS bridge",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CP2112/",
+  "part_path": "parts/CP2112",
+  "symbol_file": "parts/CP2112/CP2112.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.599Z"
+}

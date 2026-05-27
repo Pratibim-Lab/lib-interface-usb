@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT2232D:FT2232D",
+  "name": "FT2232D",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT2232D.kicad_sym",
+  "description": "Full Speed Double Channel USB UART/FIFO, LQFP-48",
+  "datasheet": "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232D.pdf",
+  "keywords": "USB Double UART FIFO",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT2232D/",
+  "part_path": "parts/FT2232D",
+  "symbol_file": "parts/FT2232D/FT2232D.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.799Z"
+}

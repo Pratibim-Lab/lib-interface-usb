@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/TPS25810RVC:TPS25810RVC",
+  "name": "TPS25810RVC",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/TPS25810RVC.kicad_sym",
+  "description": "USB Type-C DFP Controller, integrated Power Switch, Load Detection, WQFN-20 (Texas RVC0020A)",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tps25810.pdf",
+  "keywords": "Texas-Instruments",
+  "footprint": "Package_DFN_QFN:Texas_RVC0020A_WQFN-20-1EP_3x4mm_P0.5mm_EP1.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/TPS25810RVC/",
+  "part_path": "parts/TPS25810RVC",
+  "symbol_file": "parts/TPS25810RVC/TPS25810RVC.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.447Z"
+}

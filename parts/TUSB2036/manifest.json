@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/TUSB2036:TUSB2036",
+  "name": "TUSB2036",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/TUSB2036.kicad_sym",
+  "description": "2- or 3-Port USB1.1 HUB with optional serial EEPROM",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tusb2036.pdf",
+  "keywords": "2-Port, 3-Port, 3.3V, EEPROM, Full Speed, Hub, Texas Instruments, USB1.1",
+  "footprint": "Package_QFP:LQFP-32_7x7mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/TUSB2036/",
+  "part_path": "parts/TUSB2036",
+  "symbol_file": "parts/TUSB2036/TUSB2036.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.508Z"
+}

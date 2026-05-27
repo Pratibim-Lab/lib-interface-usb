@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/TPS2513A:TPS2513A",
+  "name": "TPS2513A",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/TPS2513A.kicad_sym",
+  "description": "USB Dedicated Charging Port Controller",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tps2513.pdf",
+  "keywords": "USB Charge",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "TPS2513",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/TPS2513A/",
+  "part_path": "parts/TPS2513A",
+  "symbol_file": "parts/TPS2513A/TPS2513A.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.371Z"
+}

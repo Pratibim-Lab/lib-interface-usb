@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/TUSB8041:TUSB8041",
+  "name": "TUSB8041",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/TUSB8041.kicad_sym",
+  "description": "four port USB 3.0 Hub",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tusb8041.pdf",
+  "keywords": "USB3.0 hub",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP6x6mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/TUSB8041/",
+  "part_path": "parts/TUSB8041",
+  "symbol_file": "parts/TUSB8041/TUSB8041.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.560Z"
+}

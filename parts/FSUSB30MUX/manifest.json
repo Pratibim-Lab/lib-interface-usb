@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FSUSB30MUX:FSUSB30MUX",
+  "name": "FSUSB30MUX",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FSUSB30MUX.kicad_sym",
+  "description": "Low-Power, Two-Port, High-Speed, USB2.0 (480Mbps) Switch, MSOP-10",
+  "datasheet": "https://www.onsemi.com/pdf/datasheet/fsusb30-d.pdf",
+  "keywords": "USB 2.0 High Speed Switch",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FSUSB30MUX/",
+  "part_path": "parts/FSUSB30MUX",
+  "symbol_file": "parts/FSUSB30MUX/FSUSB30MUX.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.713Z"
+}

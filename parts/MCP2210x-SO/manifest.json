@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/MCP2210x-SO:MCP2210x-SO",
+  "name": "MCP2210x-SO",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/MCP2210x-SO.kicad_sym",
+  "description": "USB to SPI Protocol Converter with GPIO, SOIC-20",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/22288A.pdf",
+  "keywords": "USB SPI Master Converter Bridge",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/MCP2210x-SO/",
+  "part_path": "parts/MCP2210x-SO",
+  "symbol_file": "parts/MCP2210x-SO/MCP2210x-SO.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.193Z"
+}

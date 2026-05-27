@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/USB3347:USB3347",
+  "name": "USB3347",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/USB3347.kicad_sym",
+  "description": "Hi-Speed USB ULPI Transceiver, QFN-24",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/334x.pdf",
+  "keywords": "USB ULPI Transceiver",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "USB3341",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/USB3347/",
+  "part_path": "parts/USB3347",
+  "symbol_file": "parts/USB3347/USB3347.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.605Z"
+}

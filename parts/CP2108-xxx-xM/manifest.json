@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CP2108-xxx-xM:CP2108-xxx-xM",
+  "name": "CP2108-xxx-xM",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CP2108-xxx-xM.kicad_sym",
+  "description": "Full Speed Quad Channel USB UART/FIFO, integrated clock and EEPROM, QFN-64",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/cp2108-datasheet.pdf",
+  "keywords": "USB Quad UART FIFO bridge",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP4.1x4.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CP2108-xxx-xM/",
+  "part_path": "parts/CP2108-xxx-xM",
+  "symbol_file": "parts/CP2108-xxx-xM/CP2108-xxx-xM.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.598Z"
+}

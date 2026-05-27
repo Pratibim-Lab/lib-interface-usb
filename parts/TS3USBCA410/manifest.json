@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/TS3USBCA410:TS3USBCA410",
+  "name": "TS3USBCA410",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/TS3USBCA410.kicad_sym",
+  "description": "USB Type-C, SBU 3:1 multiplexer, 500MHz bandwidth, UQFN-16",
+  "datasheet": "https://www.ti.com/lit/gpn/ts3usbca4",
+  "keywords": "Texas usb-c mux i2c aux analog audio microphone uart debug",
+  "footprint": "Package_DFN_QFN:UQFN-16_1.8x2.6mm_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/TS3USBCA410/",
+  "part_path": "parts/TS3USBCA410",
+  "symbol_file": "parts/TS3USBCA410/TS3USBCA410.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.489Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/XR21B1424:XR21B1424",
+  "name": "XR21B1424",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/XR21B1424.kicad_sym",
+  "description": "USB 2.0 up to 12Mbps, Quad Channel USB UART/FIFO, RS485 capability, LQFP-64",
+  "datasheet": "https://assets.maxlinear.com/web/documents/xr21b1424.pdf",
+  "keywords": "USB Quad UART FIFO",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/XR21B1424/",
+  "part_path": "parts/XR21B1424",
+  "symbol_file": "parts/XR21B1424/XR21B1424.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.614Z"
+}

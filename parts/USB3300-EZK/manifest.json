@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/USB3300-EZK:USB3300-EZK",
+  "name": "USB3300-EZK",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/USB3300-EZK.kicad_sym",
+  "description": "Hi-Speed USB Host, Device or OTG PHY with ULPI Interface",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/00001783C.pdf",
+  "keywords": "USB OTG Hi-Speed PHY ULPI Interface",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/USB3300-EZK/",
+  "part_path": "parts/USB3300-EZK",
+  "symbol_file": "parts/USB3300-EZK/USB3300-EZK.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.585Z"
+}

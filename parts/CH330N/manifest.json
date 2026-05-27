@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH330N:CH330N",
+  "name": "CH330N",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH330N.kicad_sym",
+  "description": "USB serial converter, UART, SOIC-8",
+  "datasheet": "http://www.wch.cn/downloads/file/240.html",
+  "keywords": "usb uart wch serial",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH330N/",
+  "part_path": "parts/CH330N",
+  "symbol_file": "parts/CH330N/CH330N.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.521Z"
+}

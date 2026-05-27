@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/HUSB238A-xxxxx-QN16R:HUSB238A-xxxxx-QN16R",
+  "name": "HUSB238A-xxxxx-QN16R",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/HUSB238A-xxxxx-QN16R.kicad_sym",
+  "description": "USB-PD Sink IC Port Controller, VBUS = 3..48V, USB Type-C rev. 2.1, USB-PD rev. 3.1, BC1.2, QC2.0, WQFN-16",
+  "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2412301710_Hynetek-HUSB238A-BB001-QN16R_C24833806.pdf",
+  "keywords": "USB-C I2C USB-Power-Delivery Extended-Power-Range Quick-Charge",
+  "footprint": "Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/HUSB238A-xxxxx-QN16R/",
+  "part_path": "parts/HUSB238A-xxxxx-QN16R",
+  "symbol_file": "parts/HUSB238A-xxxxx-QN16R/HUSB238A-xxxxx-QN16R.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.079Z"
+}

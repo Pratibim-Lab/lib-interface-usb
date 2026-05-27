@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CY7C65213A-28PVXI:CY7C65213A-28PVXI",
+  "name": "CY7C65213A-28PVXI",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CY7C65213A-28PVXI.kicad_sym",
+  "description": "USB-UART LP Bridge Controller, full speed 12Mbps, +1.71V to 5.5V VDD, UART/RS232/RS422/RS485, SSOP-28",
+  "datasheet": "http://www.cypress.com/file/139881/download",
+  "keywords": "USB-UART LP Bridge Controller, full speed 12Mbps",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "CY7C65213-28PVXI",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CY7C65213A-28PVXI/",
+  "part_path": "parts/CY7C65213A-28PVXI",
+  "symbol_file": "parts/CY7C65213A-28PVXI/CY7C65213A-28PVXI.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.637Z"
+}

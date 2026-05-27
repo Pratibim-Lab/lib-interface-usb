@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/MCP2210x-MQ:MCP2210x-MQ",
+  "name": "MCP2210x-MQ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/MCP2210x-MQ.kicad_sym",
+  "description": "USB to SPI Protocol Converter with GPIO, QFN-20",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/22288A.pdf",
+  "keywords": "USB SPI Master Converter Bridge",
+  "footprint": "Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/MCP2210x-MQ/",
+  "part_path": "parts/MCP2210x-MQ",
+  "symbol_file": "parts/MCP2210x-MQ/MCP2210x-MQ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.164Z"
+}

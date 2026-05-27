@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT200XD:FT200XD",
+  "name": "FT200XD",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT200XD.kicad_sym",
+  "description": "Full Speed USB to I2C Bridge, DFN-10",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT200XD.pdf",
+  "keywords": "FTDI USB I2C Interface Converter",
+  "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.55x2.48mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT200XD/",
+  "part_path": "parts/FT200XD",
+  "symbol_file": "parts/FT200XD/FT200XD.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.727Z"
+}

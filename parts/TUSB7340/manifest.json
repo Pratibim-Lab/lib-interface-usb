@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/TUSB7340:TUSB7340",
+  "name": "TUSB7340",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/TUSB7340.kicad_sym",
+  "description": "USB 3.0 xHCI Host Controller",
+  "datasheet": "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tusb7320&fileType=pdf",
+  "keywords": "USB HUB PCIE",
+  "footprint": "Package_DFN_QFN:Texas_S-PWQFN-N100_EP5.5x5.5mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/TUSB7340/",
+  "part_path": "parts/TUSB7340",
+  "symbol_file": "parts/TUSB7340/TUSB7340.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.556Z"
+}

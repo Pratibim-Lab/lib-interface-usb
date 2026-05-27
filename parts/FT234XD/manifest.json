@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT234XD:FT234XD",
+  "name": "FT234XD",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT234XD.kicad_sym",
+  "description": "Full Speed USB to Basic UART, WDFN-12",
+  "datasheet": "https://ftdichip.com/wp-content/uploads/2024/05/DS_FT234XD.pdf",
+  "keywords": "FTDI Serial",
+  "footprint": "Package_DFN_QFN:WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT234XD/",
+  "part_path": "parts/FT234XD",
+  "symbol_file": "parts/FT234XD/FT234XD.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.916Z"
+}

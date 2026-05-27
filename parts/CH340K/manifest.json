@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH340K:CH340K",
+  "name": "CH340K",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH340K.kicad_sym",
+  "description": "USB serial converter, UART, SSOP-10",
+  "datasheet": "https://cdn.sparkfun.com/assets/5/0/a/8/5/CH340DS1.PDF",
+  "keywords": "USB UART Serial Converter Interface",
+  "footprint": "Package_SO:SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH340K/",
+  "part_path": "parts/CH340K",
+  "symbol_file": "parts/CH340K/CH340K.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.562Z"
+}

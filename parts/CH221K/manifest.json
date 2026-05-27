@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH221K:CH221K",
+  "name": "CH221K",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH221K.kicad_sym",
+  "description": "USB-PD & Type-C & Fast Charge Power Sink Controller, SOT-23-6",
+  "datasheet": "http://www.wch-ic.com/downloads/CH224DS1_PDF.html",
+  "keywords": "USB-PD Power-Delivery",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH221K/",
+  "part_path": "parts/CH221K",
+  "symbol_file": "parts/CH221K/CH221K.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.491Z"
+}

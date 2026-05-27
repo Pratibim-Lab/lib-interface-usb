@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT240XS:FT240XS",
+  "name": "FT240XS",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT240XS.kicad_sym",
+  "description": "Full Speed USB to 8-Bit FIFO, SSOP-24",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT240X.pdf",
+  "keywords": "FTDI USB FIFO interface converter",
+  "footprint": "Package_SO:SSOP-24_3.9x8.7mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT240XS/",
+  "part_path": "parts/FT240XS",
+  "symbol_file": "parts/FT240XS/FT240XS.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.948Z"
+}

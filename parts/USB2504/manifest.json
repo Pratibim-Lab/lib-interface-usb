@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/USB2504:USB2504",
+  "name": "USB2504",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/USB2504.kicad_sym",
+  "description": "USB 2.0 4-Port Hub Hi-Speed Hub Controller",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/00002250A.pdf",
+  "keywords": "USB2.0 Hi-Speed-USB-Hub Hub-Controller",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/USB2504/",
+  "part_path": "parts/USB2504",
+  "symbol_file": "parts/USB2504/USB2504.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.571Z"
+}

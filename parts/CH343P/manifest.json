@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH343P:CH343P",
+  "name": "CH343P",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH343P.kicad_sym",
+  "description": "High-Speed USB serial converter, up to 6Mbps, 3.3V or 5V supply, UART, QFN-16",
+  "datasheet": "https://www.wch-ic.com/downloads/CH343DS1_PDF.html",
+  "keywords": "UART Interface crystalless Winchip WCH",
+  "footprint": "Package_DFN_QFN:WCH_QFN-16-1EP_3x3mm_P0.5mm_EP1.8x1.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH343P/",
+  "part_path": "parts/CH343P",
+  "symbol_file": "parts/CH343P/CH343P.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.585Z"
+}

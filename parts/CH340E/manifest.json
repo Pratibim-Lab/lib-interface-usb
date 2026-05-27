@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH340E:CH340E",
+  "name": "CH340E",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH340E.kicad_sym",
+  "description": "USB serial converter, UART, MSOP-10",
+  "datasheet": "https://www.mpja.com/download/35227cpdata.pdf",
+  "keywords": "USB UART Serial Converter Interface",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH340E/",
+  "part_path": "parts/CH340E",
+  "symbol_file": "parts/CH340E/CH340E.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.550Z"
+}

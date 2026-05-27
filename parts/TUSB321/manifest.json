@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/TUSB321:TUSB321",
+  "name": "TUSB321",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/TUSB321.kicad_sym",
+  "description": "USB Type-C Configuration Channel Logic and Port Control with VCONN, X2QFN-12",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tusb321.pdf",
+  "keywords": "USB CC PD VCONN",
+  "footprint": "Package_DFN_QFN:Texas_X2QFN-12_1.6x1.6mm_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/TUSB321/",
+  "part_path": "parts/TUSB321",
+  "symbol_file": "parts/TUSB321/TUSB321.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.542Z"
+}

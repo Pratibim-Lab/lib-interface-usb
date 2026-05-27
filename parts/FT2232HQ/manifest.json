@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT2232HQ:FT2232HQ",
+  "name": "FT2232HQ",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT2232HQ.kicad_sym",
+  "description": "Hi Speed Double Channel USB UART/FIFO, QFN-64",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf",
+  "keywords": "USB Double UART FIFO",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP4.35x4.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT2232HQ/",
+  "part_path": "parts/FT2232HQ",
+  "symbol_file": "parts/FT2232HQ/FT2232HQ.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.826Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH224K:CH224K",
+  "name": "CH224K",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH224K.kicad_sym",
+  "description": "100W USB Type-C PD3.0/2.0, BC1.2 Sink Controller, SSOP-10",
+  "datasheet": "https://www.wch.cn/downloads/file/301.html",
+  "keywords": "USB-C WCH powered-device",
+  "footprint": "Package_SO:SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH224K/",
+  "part_path": "parts/CH224K",
+  "symbol_file": "parts/CH224K/CH224K.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.496Z"
+}

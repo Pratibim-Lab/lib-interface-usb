@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/TS3USB30EDGSR:TS3USB30EDGSR",
+  "name": "TS3USB30EDGSR",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/TS3USB30EDGSR.kicad_sym",
+  "description": "ESD-Protected, High-Speed USB 2.0 (480-Mbps) 1:2 Multiplexer/Demultiplexer Switch With Single Enable, TSSOP-10 (Texas DGS0010A / VSSOP)",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ts3usb30e.pdf",
+  "keywords": "usb mux",
+  "footprint": "Package_SO:TSSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/TS3USB30EDGSR/",
+  "part_path": "parts/TS3USB30EDGSR",
+  "symbol_file": "parts/TS3USB30EDGSR/TS3USB30EDGSR.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.461Z"
+}

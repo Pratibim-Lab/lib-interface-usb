@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FE1.1s:FE1.1s",
+  "name": "FE1.1s",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FE1.1s.kicad_sym",
+  "description": "USB 2.0 High Speed 4-Port Hub Controller, SSOP-28",
+  "datasheet": "https://cdn-shop.adafruit.com/product-files/2991/FE1.1s+Data+Sheet+(Rev.+1.0).pdf",
+  "keywords": "4-Port, EEPROM, High Speed, Hub, USB2.0",
+  "footprint": "Package_SO:SSOP-28_3.9x9.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FE1.1s/",
+  "part_path": "parts/FE1.1s",
+  "symbol_file": "parts/FE1.1s/FE1.1s.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.703Z"
+}

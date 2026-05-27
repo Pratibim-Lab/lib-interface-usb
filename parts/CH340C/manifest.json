@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH340C:CH340C",
+  "name": "CH340C",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH340C.kicad_sym",
+  "description": "USB serial converter, crystal-less, UART, SOIC-16",
+  "datasheet": "https://datasheet.lcsc.com/szlcsc/Jiangsu-Qin-Heng-CH340C_C84681.pdf",
+  "keywords": "USB UART Serial Converter Interface",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH340C/",
+  "part_path": "parts/CH340C",
+  "symbol_file": "parts/CH340C/CH340C.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.544Z"
+}

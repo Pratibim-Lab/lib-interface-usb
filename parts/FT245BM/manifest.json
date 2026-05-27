@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/FT245BM:FT245BM",
+  "name": "FT245BM",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/FT245BM.kicad_sym",
+  "description": "Full Speed USB to 8-Bit FIFO, LQFP-32",
+  "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT245BM.pdf",
+  "keywords": "FTDI USB FIFO Interface Converter",
+  "footprint": "Package_QFP:LQFP-32_7x7mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/FT245BM/",
+  "part_path": "parts/FT245BM",
+  "symbol_file": "parts/FT245BM/FT245BM.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.959Z"
+}

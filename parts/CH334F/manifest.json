@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH334F:CH334F",
+  "name": "CH334F",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH334F.kicad_sym",
+  "description": "USB HUB controller, QFN-24",
+  "datasheet": "https://www.wch-ic.com/downloads/file/327.html",
+  "keywords": "USB HUB Controller Interface",
+  "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH334F/",
+  "part_path": "parts/CH334F",
+  "symbol_file": "parts/CH334F/CH334F.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.530Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/MA8601:MA8601",
+  "name": "MA8601",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/MA8601.kicad_sym",
+  "description": "USB 2.0 High Speed 4-Port Hub Controller, SSOP-28",
+  "datasheet": "https://datasheetspdf.com/pdf-file/1312067/Prolific/MA8601/1",
+  "keywords": "4-Port, EEPROM, High Speed, Hub, USB2.0",
+  "footprint": "Package_SO:SSOP-28_3.9x9.9mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/MA8601/",
+  "part_path": "parts/MA8601",
+  "symbol_file": "parts/MA8601/MA8601.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:20.092Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Interface_USB/CH340X:CH340X",
+  "name": "CH340X",
+  "library": "Interface_USB",
+  "file": "Interface_USB.kicad_symdir/CH340X.kicad_sym",
+  "description": "USB serial converter, 5V-tolerant IO, UART, MSOP-10",
+  "datasheet": "https://cdn.sparkfun.com/assets/5/0/a/8/5/CH340DS1.PDF",
+  "keywords": "USB UART Serial Converter Interface",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-usb@master/parts/CH340X/",
+  "part_path": "parts/CH340X",
+  "symbol_file": "parts/CH340X/CH340X.kicad_sym",
+  "source_library": "Interface_USB.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:19.579Z"
+}
